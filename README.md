@@ -6,33 +6,27 @@ Installing
 
 **Python 3.5.3 or higher is required**
 
-```py
-
     # Linux/macOS
     python3 -m pip install -U discord.py
 
     # Windows
     py -3 -m pip install -U discord.py
  >**Latest version of discord.py required.**
- ```
- ```py
  
      # Linux/macOS
      python3 -m pip install -r requirements.txt
  
      # Windows
      py -3 -m pip install -r requirements.txt
-     ```
      --------------------------------------------
    >**If you recieve random crashes during use.**
-
- .. code:: sh
      
      # Linux/macOS
      python3 -m pip --upgrade discord.py
 
      # Windows
      py -3 -m pip --upgrade discord.py
+     
 Usage
 ----------
 * "cl" - Prunes your messages in the entered channel.
