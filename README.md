@@ -6,7 +6,7 @@ Installing
 
 **Python 3.5.3 or higher is required**
 
-.. code:: sh
+```py
 
     # Linux/macOS
     python3 -m pip install -U discord.py
@@ -14,15 +14,15 @@ Installing
     # Windows
     py -3 -m pip install -U discord.py
  >**Latest version of discord.py required.**
- 
- .. code:: sh
+ ```
+ ```py
  
      # Linux/macOS
      python3 -m pip install -r requirements.txt
  
      # Windows
      py -3 -m pip install -r requirements.txt
-     
+     ```
      --------------------------------------------
    >**If you recieve random crashes during use.**
 
